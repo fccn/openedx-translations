@@ -5445,7 +5445,7 @@ msgstr "Informação da conta"
 
 #: lms/static/js/student_account/views/account_settings_view.js:55
 msgid "Order History"
-msgstr "Histórico de Encomendas"
+msgstr "Histórico de Compras"
 
 #: lms/static/js/student_account/views/account_settings_view.js:64
 msgid ""
