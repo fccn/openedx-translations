@@ -1165,7 +1165,7 @@
   "course-authoring.studio-home.processing.title": "Cursos em processamento",
   "course-authoring.studio-home.courses.tab.title": "Cursos",
   "course-authoring.studio-home.courses.tab.error.message": "Falha na procuca de cursos. Por favor, tente novamente mais tarde.",
-  "course-authoring.studio-home.courses.pagination.info": "A mostrar {comprimento} de {total}",
+  "course-authoring.studio-home.courses.pagination.info": "A mostrar {length} de {total}",
   "course-authoring.studio-home.libraries.tab.error.message": "Falha ao buscar as bibliotecas. Por favor, tente novamente mais tarde.",
   "course-authoring.studio-home.libraries.tab.title": "Bibliotecas",
   "course-authoring.studio-home.archived.tab.title": "Cursos arquivados",
