@@ -9506,7 +9506,7 @@ msgstr ""
 
 #: openedx/core/djangoapps/user_api/accounts/__init__.py:75
 msgid "It looks like this username is already taken"
-msgstr "Parece que este endereço de e-mail já está ocupado"
+msgstr "Parece que este nome de utilizador já está ocupado"
 
 #: openedx/core/djangoapps/user_api/accounts/__init__.py:80
 #, python-brace-format
