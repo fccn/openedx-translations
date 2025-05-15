@@ -1799,7 +1799,7 @@ msgid ""
 "{html_start}This {account_or_email} has already been "
 "{activated_or_confirmed}.{html_end}"
 msgstr ""
-"{html_start}{account_or_email} já foi {activated_or_confirmed}.{html_end}"
+"{html_start}Esta {account_or_email} já foi {activated_or_confirmed}.{html_end}"
 
 #: common/djangoapps/student/views/management.py:598
 #, python-brace-format
