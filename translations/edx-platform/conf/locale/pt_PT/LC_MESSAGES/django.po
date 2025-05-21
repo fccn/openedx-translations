@@ -2709,7 +2709,7 @@ msgstr ""
 
 #: common/templates/student/edx_ace/accountactivation/email/body.html:23
 msgid "Account activation"
-msgstr "Activação de conta"
+msgstr "Ativação de conta"
 
 #: common/templates/student/edx_ace/accountactivation/email/body.html:27
 #, python-format
