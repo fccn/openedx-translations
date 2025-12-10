@@ -27,6 +27,8 @@ fix_transifex_resource_names:  ## Runs the script on the TRANSIFEX_PROJECT_SLUG 
 fix_transifex_resource_names_dry_run:  ## Runs the script in --dry-run mode on the TRANSIFEX_PROJECT_SLUG project
 	python scripts/fix_transifex_resource_names.py --dry-run
 
+update_from_main:  ## Runs the update_from_main script to sync translations from main Open edX repo. Pass ARGS="..." for additional arguments
+	python scripts/update_from_main.py $(ARGS)
 
 test_requirements:  ## Installs test.txt requirements
 	pip install -q -r requirements/test.txt
