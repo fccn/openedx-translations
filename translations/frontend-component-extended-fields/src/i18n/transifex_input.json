@@ -1,0 +1,11 @@
+{
+  "profile.formcontrols.who.can.see": "Who can see this:",
+  "profile.formcontrols.button.cancel": "Cancel",
+  "profile.formcontrols.button.save": "Save",
+  "profile.formcontrols.button.saving": "Saving",
+  "profile.formcontrols.button.saved": "Saved",
+  "profile.formcontrols.error.min_length": "This field must be at least {minLength} characters long.",
+  "profile.formcontrols.error.max_length": "This field must be at most {maxLength} characters long.",
+  "account.settings.editable.field.action.edit": "Edit",
+  "account.settings.editable.field.action.add": "Add {fieldLabel}"
+}
