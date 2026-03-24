@@ -170,7 +170,7 @@
   "account.settings.sso.account.disconnect.error": "Houve um problema a desconectar esta conta. Se o problema persistir contacte a equipa de suporte.",
   "account.settings.sso.link.account": "Inicie sessão com {name}",
   "account.settings.sso.no.providers": "Nenhuma conta pode ser associada neste momento.",
-  "account.settings.sso.unlink.account": "Desbloqueio da conta {name}",
+  "account.settings.sso.unlink.account": "Desvincular conta {name}",
   "account.settings.static.field.empty": "Sem conjunto de valores. Contacte o seu administrador {enterprise} para fazer alterações.",
   "account.settings.static.field.empty.no.admin": "Nenhum valor definido.",
   "account.settings.work.experience": "Experiência profissional",
