@@ -2143,7 +2143,7 @@ msgstr "Tipos de Tarefa"
 
 #: common/djangoapps/student/models/user.py:480
 msgid "Associate degree"
-msgstr "Pós-graduação"
+msgstr "Bacharelato ou CET ou CTeSP"
 
 #: lms/templates/wiki/plugins/attachments/index.html:4
 msgid "Attachments"
@@ -5339,7 +5339,7 @@ msgstr "Esforço"
 
 #: common/djangoapps/student/models/user.py:483
 msgid "Elementary/primary school"
-msgstr "Primária"
+msgstr "Primeiro ciclo de ensino"
 
 #. Translators: This label appears above a field on the login form
 #. meant to hold the user's email address.
@@ -8545,7 +8545,7 @@ msgstr "junho"
 
 #: common/djangoapps/student/models/user.py:482
 msgid "Junior secondary/junior high/middle school"
-msgstr "2ªciclo/3ºciclo"
+msgstr "Segundo ou Terceiro ciclo de ensino"
 
 #: openedx/core/djangoapps/profile_images/images.py:242
 msgid "KB"
@@ -9344,7 +9344,7 @@ msgstr "Mestrado"
 
 #: common/djangoapps/student/models/user.py:478
 msgid "Master's or professional degree"
-msgstr "Mestrado ou Grau Profissional"
+msgstr "Mestrado"
 
 #: lms/templates/wiki/includes/cheatsheet.html:27
 msgid "Math Expression"
@@ -10459,7 +10459,7 @@ msgstr "Outras Razões:"
 #. Translators: 'Other' refers to the student's level of education
 #: common/djangoapps/student/models/user.py:487
 msgid "Other education"
-msgstr "Outra educação"
+msgstr "Outra formação"
 
 #: cms/templates/settings.html:693
 msgid "Other information from this page appears on the About page for your course. This information includes the course overview, course image, introduction video, and estimated time requirements. Students use About pages to choose new courses to take."
