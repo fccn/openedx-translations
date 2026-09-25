@@ -96,5 +96,10 @@
   "learningpath.pagination.page": "Page",
   "learningpath.pagination.current_page": "Current Page",
   "learningpath.pagination.page_of_count": "of",
-  "learningpath.pagination.nav_label": "learning items navigation"
+  "learningpath.pagination.nav_label": "learning items navigation",
+  "learningpath.error.generic_action": "We could not perform this action. Please try again later.",
+  "learningpath.error.user_limit_reached": "This catalog has no seats available at the moment. Contact your training manager to request access.",
+  "learningpath.error.catalog_unavailable": "This catalog is not currently available. It can only be accessed within its configured availability period.",
+  "learningpath.error.course_limit_reached": "There are no seats left for this course in this catalog. Contact your training manager to request access.",
+  "learningpath.error.not_allowed_to_enroll": "You cannot enroll in this course because you do not have active access to its catalog. Contact your training manager to request access."
 }
