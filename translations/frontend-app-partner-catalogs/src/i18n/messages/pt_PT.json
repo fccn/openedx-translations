@@ -96,5 +96,10 @@
   "learningpath.pagination.page": "Página",
   "learningpath.pagination.current_page": "Página Atual",
   "learningpath.pagination.page_of_count": "de",
-  "learningpath.pagination.nav_label": "navegação de itens de aprendizagem"
+  "learningpath.pagination.nav_label": "navegação de itens de aprendizagem",
+  "learningpath.error.generic_action": "Não foi possível realizar esta ação. Tente novamente mais tarde.",
+  "learningpath.error.user_limit_reached": "Este catálogo não tem lugares disponíveis de momento. Contacte o seu gestor de formação para pedir acesso.",
+  "learningpath.error.catalog_unavailable": "Este catálogo não está disponível de momento. Só pode ser acedido dentro do período de disponibilidade configurado.",
+  "learningpath.error.course_limit_reached": "Já não existem lugares disponíveis para este curso neste catálogo. Contacte o seu gestor de formação para pedir acesso.",
+  "learningpath.error.not_allowed_to_enroll": "Não se pode inscrever neste curso porque não tem acesso ativo ao respetivo catálogo. Contacte o seu gestor de formação para pedir acesso."
 }
