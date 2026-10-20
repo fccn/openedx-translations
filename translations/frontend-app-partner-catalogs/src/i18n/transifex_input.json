@@ -101,5 +101,8 @@
   "learningpath.error.user_limit_reached": "This catalog has no seats available at the moment. Contact your training manager to request access.",
   "learningpath.error.catalog_unavailable": "This catalog is not currently available. It can only be accessed within its configured availability period.",
   "learningpath.error.course_limit_reached": "There are no seats left for this course in this catalog. Contact your training manager to request access.",
-  "learningpath.error.not_allowed_to_enroll": "You cannot enroll in this course because you do not have active access to its catalog. Contact your training manager to request access."
+  "learningpath.error.not_allowed_to_enroll": "You cannot enroll in this course because you do not have active access to its catalog. Contact your training manager to request access.",
+  "learningpath.course.review_course": "Review Course",
+  "learningpath.course.certificate_generating": "Generating Certificate...",
+  "learningpath.course.certified": "Certified"
 }
