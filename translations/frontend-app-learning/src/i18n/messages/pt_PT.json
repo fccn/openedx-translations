@@ -218,6 +218,7 @@
   "learning.enrollment.alert": "É necessário estar inscrito na disciplina para ver o conteúdo da mesma.",
   "learning.enrollment.enrollNow.Inline": "Inscrever-se agora",
   "learning.enrollment.enrollNow.Sentence": "Inscrever-se agora.",
+  "learning.enrollment.error": "Não foi possível concluir a sua inscrição neste curso. Tente novamente mais tarde ou contacte o apoio.",
   "learning.enrollment.success": "Inscreveu-se com sucesso neste curso!",
   "learning.generic.upsell.fullAccessBullet": "{fullAccessInBoldText} ao conteúdo e materiais do curso, mesmo após o curso terminar",
   "learning.generic.upsell.fullAccessBullet.fullAccess": "Acesso completo",
